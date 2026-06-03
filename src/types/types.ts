@@ -1,0 +1,21 @@
+// Re-export from main types index for compatibility
+export type {
+  UserRole,
+  TravelMode,
+  MissionStatus,
+  EscalationTier,
+  AgentName,
+  AgentStatus,
+  IncidentSeverity,
+  CheckInStatus,
+  Profile,
+  TrustedContact,
+  SafetyMission,
+  CheckIn,
+  AgentLog,
+  RiskAssessment,
+  Incident,
+  McpToolCall,
+  AgentConfig,
+  McpTool,
+} from "./index";
