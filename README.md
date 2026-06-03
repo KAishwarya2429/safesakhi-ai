@@ -466,8 +466,3 @@ npx vite --host 127.0.0.1
 Building technology that creates real-world impact through AI, automation, and intelligent systems.
 
 ---
-
-## ⭐ If you found this project interesting, consider giving it a star.
-
-**SafeSakhi AI — Because Safety Shouldn't Depend on a Panic Button.**
->>>>>>> 25ffe6358fc7e19af4246027b52f597c9feefe5d
